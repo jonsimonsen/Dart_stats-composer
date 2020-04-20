@@ -32,3 +32,6 @@ traefik.yml
 
 /.editorconfig
 /.gitattributes
+
+# JS other ignores
+*.DS_Store
